@@ -1,0 +1,12 @@
+# LTspice simulation output
+*.raw
+*.log
+*.net
+*.op.raw
+*.fft
+
+# Altium Designer autosave/history and previews
+History/
+__Previews/
+Project Logs for */
+*.PcbDoc.htm

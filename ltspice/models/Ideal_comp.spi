@@ -1,0 +1,10 @@
+** spice-model of an ideal comparator
+** inputs: inp, inn, vdd, vss
+** outputs: out
+
+*simulator lang = pspice
+.SUBCKT ideal_comp inp inn vdd vss out
+
+E1 out vss VALUE={IF((V(inp)>V(inn)), V(vdd), V(vss))}
+
+.ENDS
