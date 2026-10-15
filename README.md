@@ -101,5 +101,5 @@ terminals for supply, coil and control signals).
 - This is student work, made as part of the KU Leuven Bachelor in Electrical Engineering.
 
 ## Author
-**Alexander Vanhunsel** – Team SWIPT, responsible for the wireless power transfer and bidirectional data communication
+**Alexander Van hunsel** – Team SWIPT, responsible for the wireless power transfer and bidirectional data communication
 (transmitter side).
