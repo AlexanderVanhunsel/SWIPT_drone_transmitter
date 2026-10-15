@@ -1,1 +1,1 @@
-# SWIPT_drone_transmitter
+# SWIPT-drone-transmitter
